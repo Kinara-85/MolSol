@@ -1,6 +1,4 @@
-# MolSol
-
-# Solubility Prediction Using Machine Learning
+# MolSol - Solubility Prediction Using Machine Learning
 
 ## Overview
 This project predicts the solubility (logS) of molecules using machine learning models, specifically **Linear Regression** and **Random Forest Regressor**. Solubility is crucial for biologists and chemists to determine whether a molecule can dissolve in water or a solvent, which is important for drug discovery.
